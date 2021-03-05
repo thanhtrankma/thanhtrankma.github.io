@@ -1,12 +1,24 @@
-<span id="a">ThanhTran@Developer</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-Hi, my name is Thanh Tran (GreyT).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">ThanhTran@Developer</span>:<span id="b">~</span><span id="c">$</span> Tôi là ai?<br/><br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Xin chào, Tên của tôi là Trần Dũng Thành (GreyT).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
+<p>Tôi là một lập trình viên trẻ với sự nhiệt huyết, năng động và ham học hỏi.  Tôi đã hoàn thành chương trình học tại Học viện Kỹ thuật mật mã sau 5 năm. Hiện tại, Tôi làm việc tại <a href="https://www.vndirect.com.vn/" target="_blank" rel="noopener noreferrer">VNDIRECT</a> với vai trò là một lập trình viên.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Trải qua nhiều năm làm việc khi mới chỉ còn là sinh viên, tôi đã làm những dự án lớn nhỏ khác nhau, đây là một trong số đó:
 <ul>
-<li><a href="https://www.facebook.com/ThanhTranDung1405" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+<li><a href="https://www.homefood.com.vn/" target="_blank" rel="noopener noreferrer">Homefood</a></li>
+<li><a href="https://homefoodchay.vn/" target="_blank" rel="noopener noreferrer">HomefoodChay</a></li>
+<li><a href="https://homefoodshop.vn/" target="_blank" rel="noopener noreferrer">HomefoodShop</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-You can visit my personal blog <a href="" target="_blank" rel="noopener noreferrer">404</a>. Also, feel free to contact me on...<br/>
+Dự án hiện tại, Tôi làm dự án về nền tảng bất động sản <a href="https://dhomes.com.vn/" target="_blank" rel="noopener noreferrer">DHomes</a>. Xây dựng và phát triển Website và Mobile App.
+<ul><br/>
+<h4>Các kỹ năng hiện tại:</h4>
+<li><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">VueJS</a>Sử dụng thành thạo.</li>
+<li><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJS</a>Sử dụng thành thạo.</li>
+<li><a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>Sử dụng thành thạo.</li>
+</ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Nếu có công việc phù hợp, hãy liên lạc với thôi qua: <br/>
+Facebook: <a href="https://www.facebook.com/ThanhTranDung1405/" target="_blank" rel="noopener noreferrer">Thành Trần</a><br/>
 Email: &nbsp;&nbsp;<a href="mailto:thanhtran.kma@gmail.com">thanhtran.kma@gmail.com</a>
 </p>
 <!-- slightdelayhere-->
-Best Regards
+Trân trọng.
 <br/>
