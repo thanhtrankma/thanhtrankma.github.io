@@ -10,13 +10,13 @@ Xin chào, Tên của tôi là Trần Dũng Thành (GreyT).
 </ul>
 Dự án hiện tại, Tôi đang làm dự án về nền tảng bất động sản <a href="https://dhomes.com.vn/" target="_blank" rel="noopener noreferrer">DHomes</a>. Xây dựng và phát triển Website và Mobile App.
 <ul>
-<h4>Các kỹ năng hiện tại:</h4>
-<li><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">VueJS</a>&nbsp;Sử dụng thành thạo.</li>
-<li><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJS</a>&nbsp;Sử dụng thành thạo.</li>
-<li><a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>&nbsp;Sử dụng thành thạo.</li>
+<h4>Sử dụng thành thạo:</h4>
+<li><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">VueJS</a></li>
+<li><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJS</a></li>
+<li><a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a></li>
 </ul>
 Vì chính sách bảo mật của công ty, nên github của tôi không được công khai các dự án đã và đang làm. Nếu muốn biết thêm thông tin chi tiết vui lòng liên hệ: <br/>
-Facebook: <a href="https://www.facebook.com/ThanhTranDung1405/" target="_blank" rel="noopener noreferrer">Thành Tr</a><br/>
+Facebook: <a href="https://www.facebook.com/ThanhTranDung1405/" target="_blank" rel="noopener noreferrer">Thành Trần</a><br/>
 Email: &nbsp;&nbsp;&nbsp;<a href="mailto:thanhtran.kma@gmail.com">thanhtran.kma@gmail.com</a>
 </p>
 
